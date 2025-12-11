@@ -1,0 +1,6 @@
+Here is a collection of things I learnt along the way, mostly as I messed things up haha
+
+- If you want to remove all the staged change after doing `git add .`
+    Newer Syntax -> `git --reset staged .`
+    Older Syntax -> `git reset HEAD .`
+    You may now review the staging area with the usual `git status`
