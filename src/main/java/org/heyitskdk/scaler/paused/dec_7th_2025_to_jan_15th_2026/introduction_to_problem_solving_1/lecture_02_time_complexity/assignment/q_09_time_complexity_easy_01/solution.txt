@@ -1,0 +1,1 @@
+Answer: O(log N) {Base 3} as N is reducing at the rate of power of 3

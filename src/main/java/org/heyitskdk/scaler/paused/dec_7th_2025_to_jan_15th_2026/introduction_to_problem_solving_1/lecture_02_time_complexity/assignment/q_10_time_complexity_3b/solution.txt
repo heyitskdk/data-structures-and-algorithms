@@ -1,0 +1,4 @@
+Answer: O(N^2)
+It's clear that the outer loop runs N times.
+The inner loop runs 'i' times for each iteration of 'i'
+Hence, total iterations: 1 + 2 + 3 + ... + N = N(N+1)/2

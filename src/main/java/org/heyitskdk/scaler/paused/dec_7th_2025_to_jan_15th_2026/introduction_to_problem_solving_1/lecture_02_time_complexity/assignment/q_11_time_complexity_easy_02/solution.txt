@@ -1,0 +1,2 @@
+Answer: O(N), the inner loop does not add to the iterations as the break statement exits the loop
+as soon as it starts

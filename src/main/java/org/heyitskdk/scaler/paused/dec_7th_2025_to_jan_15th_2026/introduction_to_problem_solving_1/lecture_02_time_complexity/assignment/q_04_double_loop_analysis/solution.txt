@@ -1,0 +1,3 @@
+Answer: For each value of i, the inner loop runs till the ith value
+1 + 2 + 3 + ... + N total times
+T.C. is O(N^2)
